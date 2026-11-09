@@ -1,0 +1,41 @@
+
+review_text,sentiment
+"Battery backup is excellent and lasts all day",positive
+"The battery drains very quickly",negative
+"Battery performance is average",neutral
+"The camera captures beautiful pictures",positive
+"The camera quality is terrible",negative
+"The camera is acceptable",neutral
+"The display is bright and sharp",positive
+"The screen looks dull and blurry",negative
+"The display is decent",neutral
+"The sound quality is amazing",positive
+"The speakers produce distorted sound",negative
+"The audio quality is average",neutral
+"The build quality feels premium",positive
+"The material feels cheap and fragile",negative
+"The product is reasonably built",neutral
+"The price is affordable and worth it",positive
+"Extremely expensive and overpriced",negative
+"The price is reasonable",neutral
+"The delivery was fast and packaging was excellent",positive
+"The delivery was delayed and packaging was damaged",negative
+"The delivery was on time",neutral
+"The design is beautiful and comfortable",positive
+"The design is ugly and uncomfortable",negative
+"The design is simple",neutral
+"The performance is fast and smooth",positive
+"The performance is slow and frustrating",negative
+"The performance is average",neutral
+"Customer service was helpful and responsive",positive
+"Customer support was rude and unhelpful",negative
+"Customer service was okay",neutral
+"Fabric quality is soft and comfortable",positive
+"The fabric is rough and uncomfortable",negative
+"The fabric quality is average",neutral
+"The product is easy to use and convenient",positive
+"The product is difficult to use",negative
+"The product is fairly easy to use",neutral
+"The product is durable and reliable",positive
+"The product broke after two days",negative
+"The product works as expected",neutral
